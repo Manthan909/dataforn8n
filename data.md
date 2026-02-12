@@ -1,63 +1,68 @@
 COMPANY_PROFILE
 
 NAME:
-Share Master
+Growth Orbit
 
 BRAND_COLORS:
-Purple
-Pink
+Electric Blue
+Neon Green
 Black
 White
-Dark Gray
+Slate Gray
 
 SERVICE_CATEGORY:
-Financial trading courses
+Digital Marketing & Performance Advertising
 
 FLAGSHIP_PRODUCT:
-Live Market Trading Batch
+ROI Accelerator Program
 
 PRODUCT_DESCRIPTION:
-Premium batch where students trade live during market hours with trainers. Focused on real-time learning and practical decision making.
+A performance-driven marketing program focused on scaling businesses through data-backed ad campaigns, conversion optimization, and automated lead nurturing systems.
 
 MODE:
-Offline + Live Market Trading
+Online + Hybrid Strategy Sessions
 
 TARGET_AUDIENCE:
-Serious traders
-Career-focused learners
+Startups
+E-commerce brands
+SMEs
+Founders scaling revenue
 
 COURSE_DURATION:
-8–10 weeks
+12-week performance sprint
 
 SOCIAL_PROOF:
-2000+ students enrolled
-5-star rating
+500+ brands scaled
+4.9-star client rating
 
 KEY_FEATURES:
-Trade live during market hours
-Sit with trainers and trade together
-Real-time decision making
-Institute’s most recommended batch
+Data-driven ad campaign execution
+Full-funnel marketing strategy
+Conversion rate optimization
+Dedicated account strategist
+Weekly performance review calls
 
 LEARNING_OUTCOMES:
-Live market analysis using real trades
-Advanced technical and price action strategies
-Options and futures trading
+Master paid advertising across Meta and Google
+Build scalable lead generation funnels
+Optimize conversion metrics
+Increase ROI through data analytics
 
 CONTACT_INFORMATION
 
 PHONE:
-7517401717
-7373401717
+9876543210
+9823456789
 
 EMAIL:
-share.master.171@gmail.com
+hello@growthorbit.com
 
 ADDRESS:
-A-601, Nyati Empress
-Near Giga Space
-Viman Nagar, Pune
+402, Skyline Tower
+Cyber City
+Gurgaon, Haryana
 
 WORKING_HOURS:
-Monday to Saturday: 9:00 AM – 8:00 PM
+Monday to Friday: 10:00 AM – 7:00 PM
+Saturday: 10:00 AM – 3:00 PM
 Sunday: Closed
