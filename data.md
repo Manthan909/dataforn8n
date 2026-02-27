@@ -1,37 +1,39 @@
 NAME:
-Vertex TradeLink Pvt. Ltd.
+AstraNova Energy Systems Pvt. Ltd.
 
 BRAND_COLORS:
-Deep Navy
-Metallic Silver
-Emerald Green
-White
-Charcoal Gray
+Midnight Blue
+Solar Gold
+Electric Orange
+Graphite Black
+Ice White
 
 SERVICE_CATEGORY:
-Global Commodity Trading & Supply Chain Solutions
+Renewable Energy Infrastructure & Smart Grid Solutions
 
 FLAGSHIP_PRODUCT:
-SmartTrade Pro Network
+HelioGrid Nexus Platform
 
 PRODUCT_DESCRIPTION:
-An integrated trading and procurement platform focused on sourcing, bulk trading, and distribution of industrial commodities through verified supplier networks, real-time pricing intelligence, and risk-managed contracts.
+A scalable renewable energy management ecosystem that integrates solar farms, battery storage systems, and AI-based grid optimization tools. It enables real-time energy forecasting, load balancing, carbon tracking, and predictive maintenance for industrial and municipal clients.
 
 MODE:
-Online Trading Platform + On-Ground Logistics Support
+Hybrid Model – Cloud-based Energy Monitoring Platform + On-site Installation & Maintenance
 
 TARGET_AUDIENCE:
-Manufacturers
-Wholesale distributors
-Import-export businesses
-Industrial procurement heads
-Commodity investors
+Industrial plants
+Smart cities & municipalities
+Commercial real estate developers
+Data centers
+EV charging network operators
 
 PROGRAM_DURATION:
-Ongoing trading partnerships (Quarterly & Annual contracts available)
+Long-term infrastructure contracts (5–15 years)
+Energy-as-a-Service subscription model available
 
 SOCIAL_PROOF:
-1,200+ active B2B clients
-18 countries served
-$250M+ annual trade volume
-4.8-star partner satisfaction rating
+850+ MW renewable capacity deployed
+12 smart grid projects across 9 countries
+$180M+ project portfolio
+92% contract renewal rate
+
