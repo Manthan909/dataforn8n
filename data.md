@@ -1,68 +1,37 @@
-COMPANY_PROFILE
-
 NAME:
-Growth Orbit
+Vertex TradeLink Pvt. Ltd.
 
 BRAND_COLORS:
-Electric Blue
-Neon Green
-Black
+Deep Navy
+Metallic Silver
+Emerald Green
 White
-Slate Gray
+Charcoal Gray
 
 SERVICE_CATEGORY:
-Digital Marketing & Performance Advertising
+Global Commodity Trading & Supply Chain Solutions
 
 FLAGSHIP_PRODUCT:
-ROI Accelerator Program
+SmartTrade Pro Network
 
 PRODUCT_DESCRIPTION:
-A performance-driven marketing program focused on scaling businesses through data-backed ad campaigns, conversion optimization, and automated lead nurturing systems.
+An integrated trading and procurement platform focused on sourcing, bulk trading, and distribution of industrial commodities through verified supplier networks, real-time pricing intelligence, and risk-managed contracts.
 
 MODE:
-Online + Hybrid Strategy Sessions
+Online Trading Platform + On-Ground Logistics Support
 
 TARGET_AUDIENCE:
-Startups
-E-commerce brands
-SMEs
-Founders scaling revenue
+Manufacturers
+Wholesale distributors
+Import-export businesses
+Industrial procurement heads
+Commodity investors
 
-COURSE_DURATION:
-12-week performance sprint
+PROGRAM_DURATION:
+Ongoing trading partnerships (Quarterly & Annual contracts available)
 
 SOCIAL_PROOF:
-500+ brands scaled
-4.9-star client rating
-
-KEY_FEATURES:
-Data-driven ad campaign execution
-Full-funnel marketing strategy
-Conversion rate optimization
-Dedicated account strategist
-Weekly performance review calls
-
-LEARNING_OUTCOMES:
-Master paid advertising across Meta and Google
-Build scalable lead generation funnels
-Optimize conversion metrics
-Increase ROI through data analytics
-
-CONTACT_INFORMATION
-
-PHONE:
-9876543210
-9823456789
-
-EMAIL:
-hello@growthorbit.com
-
-ADDRESS:
-402, Skyline Tower
-Cyber City
-Gurgaon, Haryana
-
-WORKING_HOURS:
-Monday to Friday: 10:00 AM – 7:00 PM
-Saturday: 10:00 AM – 3:00 PM
-Sunday: Closed
+1,200+ active B2B clients
+18 countries served
+$250M+ annual trade volume
+4.8-star partner satisfaction rating
